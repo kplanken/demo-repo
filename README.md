@@ -11,6 +11,10 @@ Watch tutorial on YouTube (https://www.youtube.com/watch?v=RGOj5yH7evk).
 Wonder whether this is working?
 
 
-## Previous one did't work!
+## Previous one didn't work!
 
 Now if everything is fine it should work, duhuh...
+
+## Wel the last one didn't work either
+
+Therefore a new trial :-)
