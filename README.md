@@ -18,3 +18,7 @@ Now if everything is fine it should work, duhuh...
 ## Wel the last one didn't work either
 
 Therefore a new trial :-)
+
+## Local development
+
+1. Open index.html in your browser
