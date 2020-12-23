@@ -65,6 +65,9 @@ git reset "commit hash"
 git reset -hard "commit hash"
 ...Undoing all the changes until "commit hash" (files are changed!)
 
+git ls-tree "branch"
+...Prints files of branch
+
 ## Git config stuff
 
 git --version
