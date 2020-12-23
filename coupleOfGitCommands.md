@@ -50,6 +50,21 @@ git pull (origin) "branch"
 git branch -d "branch"
 ...Deletes "branch"
 
+git restore --staged "file"
+...Unstages the file after add command.
+
+git reset HEAD~1
+...Go back one further to undo the commit and staging.
+
+git log
+...Brings up the commit log
+
+git reset "commit hash"
+...Unstaging till the commit with "commit hash"
+
+git reset -hard "commit hash"
+...Undoing all the changes until "commit hash" (files are changed!)
+
 ## Git config stuff
 
 git --version
