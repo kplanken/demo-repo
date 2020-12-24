@@ -90,6 +90,16 @@
 
         $ git ls-tree "branch"
 
+22. Making a PR from CLI:
+
+        $ git request-pull [-p] <start> <url> [<end>]
+    
+    this is issued from within the branch that should be pulled into starting point/branch.
+
+23. Compare the current active (not master) branch to the masin:
+
+        $ git request-pull main ./
+
 ## Git config stuff
 
 1. Prints Git version:
